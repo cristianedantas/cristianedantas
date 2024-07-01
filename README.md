@@ -1,6 +1,6 @@
-## Oii eu sou a Cristiane Dantas.
+## Oii eu sou a Cristiane Dantas
 
-- 🔭 Hoje trabalho com Suporte Técnico.
+- 🔭 Hoje trabalho com Suporte Técnico
 - 🌱 Estudando Front-end em React
 - 😄 Pronouns: ela/dela
 
